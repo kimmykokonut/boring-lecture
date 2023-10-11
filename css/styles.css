@@ -1,25 +1,36 @@
-h2.intro{
+.intro h2 {
     text-decoration: underline;
-
+    height: 5%;
 }
 
-p.intro{
-
-font-family: Georgia, 'Times New Roman', Times, serif;
-    
+.intro p {
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    width: 90%;  
+    text-align: center; 
 }
 
-img.intro{
+#special {
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: line-through;
+}
 
+#box {
     border: 5px solid #000000;
 }
+
 #intro2{
     font-family: cursive;
     }
-    
+
 body{
     text-align: center;
     background-color: rgb(34, 136, 164);
     font-size: larger;
+}
+
+.image{
+ width: 50vw; 
+ height: 50vw;
+ text-align: center;
 }
 
