@@ -1,0 +1,25 @@
+h2.intro{
+    text-decoration: underline;
+
+}
+
+p.intro{
+
+font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+img.intro{
+
+    border: 5px solid #000000;
+}
+#intro2{
+    font-family: cursive;
+    }
+    
+body{
+    text-align: center;
+    background-color: rgb(34, 136, 164);
+    font-size: larger;
+}
+
